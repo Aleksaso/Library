@@ -1,1 +1,66 @@
+# Binary files
+*replace
+test
+so_long
 .DS_Store
+libmlx.dylib
+minilibx-mms/*.json
+*.log
+libmlx_linux.a
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.aout
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Clion project files
+.idea
+
+# Eclipse project files
+.settings
+.cproject
+.project
+
+# Vscode project files
+.vscode
+
+# Javascript project files
+*.js
+
+# Binary files
+*replace
+vector_test
+
+# Valgrind files
+callgrind*
+vgcore*
+
